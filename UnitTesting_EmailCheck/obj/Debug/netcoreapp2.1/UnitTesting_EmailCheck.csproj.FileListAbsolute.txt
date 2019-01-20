@@ -1,0 +1,11 @@
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe12_UnitTesting\UnitTesting_EmailCheck\bin\Debug\netcoreapp2.1\UnitTesting_EmailCheck.deps.json
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe12_UnitTesting\UnitTesting_EmailCheck\bin\Debug\netcoreapp2.1\UnitTesting_EmailCheck.runtimeconfig.json
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe12_UnitTesting\UnitTesting_EmailCheck\bin\Debug\netcoreapp2.1\UnitTesting_EmailCheck.runtimeconfig.dev.json
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe12_UnitTesting\UnitTesting_EmailCheck\bin\Debug\netcoreapp2.1\UnitTesting_EmailCheck.dll
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe12_UnitTesting\UnitTesting_EmailCheck\bin\Debug\netcoreapp2.1\UnitTesting_EmailCheck.pdb
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe12_UnitTesting\UnitTesting_EmailCheck\obj\Debug\netcoreapp2.1\UnitTesting_EmailCheck.csprojAssemblyReference.cache
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe12_UnitTesting\UnitTesting_EmailCheck\obj\Debug\netcoreapp2.1\UnitTesting_EmailCheck.csproj.CoreCompileInputs.cache
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe12_UnitTesting\UnitTesting_EmailCheck\obj\Debug\netcoreapp2.1\UnitTesting_EmailCheck.AssemblyInfoInputs.cache
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe12_UnitTesting\UnitTesting_EmailCheck\obj\Debug\netcoreapp2.1\UnitTesting_EmailCheck.AssemblyInfo.cs
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe12_UnitTesting\UnitTesting_EmailCheck\obj\Debug\netcoreapp2.1\UnitTesting_EmailCheck.dll
+C:\Users\Chiara\Desktop\Studium\6.Semester\Softwaredesign\Aufgabe12_UnitTesting\UnitTesting_EmailCheck\obj\Debug\netcoreapp2.1\UnitTesting_EmailCheck.pdb

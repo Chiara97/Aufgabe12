@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Chiara\\Desktop\\Studium\\6.Semester\\Softwaredesign\\Aufgabe12_UnitTesting\\UnitTesting_EmailCheck\\UnitTesting_EmailCheck.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
